@@ -89,6 +89,8 @@ global.sessionName = 'chika'
 
 [`Click Here For Tutorial`](https://youtu.be/U1suj4wuWvc)<br>
 
+## DEPLOY
+[![Deploy](https:www.herokucdn.com/deploy/button.svg)](https://heroku.com /deploy?template=https://github.com/LuckZyx/Chika-MdV8/)
 ----------
 
 <p align="center">
